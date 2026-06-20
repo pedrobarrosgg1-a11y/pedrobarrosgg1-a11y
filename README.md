@@ -50,12 +50,12 @@
 
 <div align="center">
 
-![NEXT.JS](https://img.shields.io/badge/NEXT-111?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![REACTJS](https://img.shields.io/badge/REACT-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+[![NEXT_JS](https://img.shields.io/badge/NEXT-111?style=for-the-badge&logo=next.js&logoColor=FFFFFF)](https://nextjs.org/docs)
+[![REACT](https://img.shields.io/badge/REACT-111?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://react.dev/learn)
+[![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/pt)
+[![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs)
 
 </div>
 
@@ -69,8 +69,12 @@
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=pedrobarrosgg1-a11y&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
-
+<a href="https://github.com/pedrobarrosgg1-a11y?tab=contributions" target="_blank">
+  <img
+    src="https://streak-stats.demolab.com?user=pedrobarrosgg1-a11y&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"
+    alt="streak"
+  />
+</a>
 <br/>
 
 </div>
