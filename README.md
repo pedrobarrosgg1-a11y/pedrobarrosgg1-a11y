@@ -34,7 +34,8 @@
 
 <img 
   width="400"
-  src="https://i.pinimg.com/736x/95/2c/af/952caf72ac276a2b4695111b6f7071a0.jpg"
+  src="https://i.pinimg.com/originals/0f/f7/69/0ff769dea5fe0c24a3c93f87edf05f16.gif"
+  alt="GIF"
 />
 
 </div>
