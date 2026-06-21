@@ -51,11 +51,11 @@
 
 <div align="center">
 
-[![NEXT_JS](https://img.shields.io/badge/NEXT-111?style=for-the-badge&logo=next.js&logoColor=FFFFFF)](https://nextjs.org/docs)
-[![REACT](https://img.shields.io/badge/REACT-111?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://react.dev/learn)
-[![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/pt)
+[![NEXT_JS](https://img.shields.io/badge/NEXT-111?style=for-the-badge&logo=next.js&logoColor=)](https://nextjs.org/docs)
+[![REACT](https://img.shields.io/badge/REACT-111?style=for-the-badge&logo=react&logoColor=)](https://react.dev/learn)
+[![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=)](https://docs.github.com/pt)
 [![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs)
 
 </div>
